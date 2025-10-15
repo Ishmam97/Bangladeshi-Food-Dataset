@@ -1,4 +1,4 @@
-# 🍛 Bangladeshi Food Dataset (BFD-58)
+# 🍛 Bangladeshi Food Dataset
 
 ### Overview
 
@@ -90,11 +90,11 @@ If you use this dataset in your research, please cite:
 
 ```
 @dataset{solaiman2025bfd58,
-  title     = {BFD-58: A Comprehensive Dataset for Bangladeshi Food Recognition},
+  title     = {A Comprehensive Dataset for Bangladeshi Food Recognition},
   author    = {Solaiman, Ishmam},
   year      = {2025},
   publisher = {GitHub},
-  url       = {https://github.com/ishmam97/BFD-58}
+  url       = {https://github.com/ishmam97/Bangladeshi-Food-Dataset}
 }
 ```
 
