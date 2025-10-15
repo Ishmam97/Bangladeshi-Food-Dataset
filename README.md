@@ -22,7 +22,7 @@ This dataset aims to fill a major gap in current food recognition resources, whi
 ### 📂 Dataset Structure
 
 ```
-BFD-58/
+/
 │
 ├── Biriyani/
 │   ├── img_001.jpg
