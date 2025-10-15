@@ -5,7 +5,7 @@
 The **Bangladeshi Food Dataset (BFD-58)** is a curated image collection designed to advance research in **food recognition**, **computer vision**, and **cultural AI**.
 It contains **7,500+ high-quality images** across **58 traditional Bangladeshi food categories**, including iconic dishes such as *Biriyani*, *Khichuri*, *Hilsha Fish*, *Roshogolla*, and *Pitha*.
 
-This dataset aims to fill a major gap in current food recognition resources, which are predominantly Western-centric (e.g., Food-101, FoodX-251). BFD-58 provides a culturally rich, geographically diverse dataset representing authentic Bangladeshi cuisine — an underrepresented domain in global AI research.
+This dataset aims to fill a major gap in current food recognition resources, which are predominantly Western-centric (e.g., Food-101, FoodX-251). The dataset provides a culturally rich, geographically diverse dataset representing authentic Bangladeshi cuisine — an underrepresented domain in global AI research.
 
 ---
 
