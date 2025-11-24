@@ -2,8 +2,8 @@
 
 ### Overview
 
-The **Bangladeshi Food Dataset (BFD-58)** is a curated image collection designed to advance research in **food recognition**, **computer vision**, and **cultural AI**.
-It contains **7,500+ high-quality images** across **58 traditional Bangladeshi food categories**, including iconic dishes such as *Biriyani*, *Khichuri*, *Hilsha Fish*, *Roshogolla*, and *Pitha*.
+The **Bangladeshi Food Dataset** is a curated image collection designed to advance research in **food recognition**, **computer vision**, and **cultural AI**.
+It contains **10,000+ high-quality images** across **45 traditional Bangladeshi food categories**, including iconic dishes such as *Biriyani*, *Khichuri*, *Hilsha Fish*, *Roshogolla*, and *Pitha*.
 
 This dataset aims to fill a major gap in current food recognition resources, which are predominantly Western-centric (e.g., Food-101, FoodX-251). The dataset provides a culturally rich, geographically diverse dataset representing authentic Bangladeshi cuisine — an underrepresented domain in global AI research.
 
@@ -43,8 +43,8 @@ This dataset aims to fill a major gap in current food recognition resources, whi
 
 | Property                 | Value                                   |
 | ------------------------ | --------------------------------------- |
-| Total Images             | ~7,500                                  |
-| Classes                  | 58                                      |
+| Total Images             | ~10,000                                  |
+| Classes                  | 45                                      |
 | Average Images per Class | 120–150                                 |
 | Format                   | `.jpg`                                  |
 | Image Resolution         | 256×256 (approx.)                       |
@@ -65,7 +65,7 @@ You can use this dataset for:
 
 * Food image **classification** and **fine-grained recognition**
 * **Transfer learning** and **PEFT** (Parameter-Efficient Fine-Tuning) experiments
-* **Cross-cultural dataset comparison** (e.g., training on Food-101 and evaluating on BFD-58)
+* **Cross-cultural dataset comparison** (e.g., training on Food-101 and evaluating on BFD)
 * **AI fairness** and **representation** studies in computer vision
 
 Example (PyTorch):
