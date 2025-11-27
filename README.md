@@ -11,8 +11,8 @@ This dataset aims to fill a major gap in current food recognition resources, whi
 
 ### ✨ Key Features
 
-* **58 distinct food categories** covering main dishes, sweets, snacks, and beverages
-* **7,500+ labeled images** collected from diverse real-world sources (homes, restaurants, markets, and online platforms)
+* **45 distinct food categories** covering main dishes, sweets, snacks, and beverages
+* **10,000+ labeled images** collected from diverse real-world sources (homes, restaurants, markets, and online platforms)
 * **High-quality manual verification** to ensure accurate labels and clean data
 * **Balanced representation** of urban and regional foods
 * **Ready for ML pipelines** — organized in a `class_name/` folder structure compatible with PyTorch, TensorFlow, and Keras
@@ -34,7 +34,7 @@ This dataset aims to fill a major gap in current food recognition resources, whi
 │   ├── img_002.jpg
 │   └── ...
 │
-└── ... (58 total folders)
+└── ... (45 total folders)
 ```
 
 ---
@@ -73,7 +73,7 @@ Example (PyTorch):
 ```python
 from torchvision import datasets, transforms
 
-data_dir = "path/to/BFD-58"
+data_dir = "path/to/BFD"
 transform = transforms.Compose([
     transforms.Resize((224, 224)),
     transforms.ToTensor()
